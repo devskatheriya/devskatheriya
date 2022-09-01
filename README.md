@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devskatheriya
 - 👀 I’m interested in creative things.
-- 🌱 I’m currently learning NextJS/NodeJS.
+- 🌱 I’m currently learning NodeJS.
 - 💞️ I’m looking to collaborate on React/Next JS.
 - 📫 Reach me twitter @skthakurs
 
